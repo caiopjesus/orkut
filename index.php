@@ -1,8 +1,8 @@
 <?php
  $hostname="localhost";
- $username="id21316961_admin0508";
- $password="Admin@050831";
- $dbname="id21316961_bdsenai050831";
+ $username="user";
+ $password="password";
+ $dbname="dbTeste";
  $usertable="tb_usuario";
  
  $con=mysqli_connect($hostname,$username, $password) or die ("html>script language='JavaScript'>alert
